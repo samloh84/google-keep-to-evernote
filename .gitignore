@@ -1,0 +1,6 @@
+.idea/
+Keep/
+*.enex
+
+# Project exclude paths
+/node_modules/
